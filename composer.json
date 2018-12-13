@@ -1,7 +1,7 @@
 {
     "name": "max-kk/wp-skins-customizer",
     "type": "library",
-    "license": "GPL",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Maxim Kaminsky",
