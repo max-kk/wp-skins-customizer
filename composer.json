@@ -1,0 +1,16 @@
+{
+    "name": "max-kk/wp-skins-customizer",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Maxim Kaminsky",
+            "email": "max_work@hotmail.com"
+        }
+    ],
+  "autoload": {
+    "classmap": ["includes/"],
+    "exclude-from-classmap": []
+  },
+    "require": {}
+}
